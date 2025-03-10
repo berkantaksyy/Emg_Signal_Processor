@@ -12,7 +12,7 @@ How does it work?
 -When the correct credentials are entered, access to the EMG processing application is granted. 
 -The background image (trial.png) is loaded and displayed.
 
-2-) EMG İşleme Uygulaması (EMGProcessorApp)
+2-) EMG Processing Application (EMGProcessorApp)
 Objective: To upload, filter, analyze and visualize EMG signals.
 How does it work?
 
