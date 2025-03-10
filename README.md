@@ -1,3 +1,6 @@
+IMPORTANT: The code is not shared because it is under development. Screenshots are shared.
+
+
 This code is an EMG (Electromyography) signal processing application. EMG is a technique that measures the electrical activity of muscles and this application is used to filter, analyze and visualize EMG signals. Here are the basic functions of the code and how it works:
 
 
